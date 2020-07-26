@@ -8,6 +8,10 @@ CSS<br/>
 Sass<br/>
 NPM (node package manager)<br/>
 live-server<br/>
+Google fonts<br/>
+Linea font icons<br />
+jonas images (project file.)<br/>
+
 #### BEM METHADOLOGY.
 #### Author
 Jonas Schmedtman
