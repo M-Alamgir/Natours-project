@@ -72,7 +72,7 @@ body {
         display: inline-block;
         padding: 3px;
         border-bottom: 1px solid $color-primary;
-        transition: all .2s;
+        transition: all;
 
         &:hover{
             background-color: $color-primary;
