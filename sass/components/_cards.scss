@@ -1,0 +1,18 @@
+.feature-card{
+
+    &__side {
+        &--front{
+            background-color: $color-white;
+            height: 52rem;
+            
+        }
+
+        &--back{
+
+        }
+    }
+
+    &:hover {
+        transform: rotateY(180deg);
+    }
+}

@@ -196,6 +196,13 @@ body {
   .features-box:hover {
     transform: translateY(-1rem) scale(1.03); }
 
+.feature-card__side--front {
+  background-color: #fff;
+  height: 52rem; }
+
+.feature-card:hover {
+  transform: rotateY(180deg); }
+
 .header {
   position: relative;
   height: 95vh;
@@ -255,3 +262,8 @@ body {
   transform: skewY(-7deg); }
   .section-features > * {
     transform: skewY(7deg); }
+
+.section-cards {
+  margin-top: -10rem;
+  background-color: #f7f7f7;
+  padding: 25rem 0; }
