@@ -8,9 +8,11 @@ CSS<br/>
 Sass<br/>
 NPM (node package manager)<br/>
 live-server<br/>
+### Resources
 Google fonts<br/>
 Linea font icons<br />
 jonas images (project file.)<br/>
+unsplash.com(images)<br/>
 
 #### BEM METHADOLOGY.
 #### Author
