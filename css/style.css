@@ -311,6 +311,7 @@ body {
     font-size: 1.7rem;
     color: #fff;
     opacity: 0;
+    backface-visibility: hidden;
     transition: all .5s; }
   .story:hover .story__caption {
     opacity: 1;
