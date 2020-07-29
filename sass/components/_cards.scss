@@ -89,4 +89,22 @@
             }
         }
     }
+    &__cta {
+        text-align: center;
+        padding: 5rem;
+        
+        &--price{
+            font-weight: 300;
+            color: $color-white;
+            margin-bottom: 30rem;
+
+            &1{
+                font-size: 2.5rem;
+            }
+
+            &2{
+                font-size: 2.2rem;
+            }
+        }
+    }
 }

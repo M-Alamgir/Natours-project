@@ -251,6 +251,17 @@ body {
         text-align: center; }
         .card__details ul li:not(:last-child) {
           border-bottom: 1px solid #e2e2e2; }
+  .card__cta {
+    text-align: center;
+    padding: 5rem; }
+    .card__cta--price {
+      font-weight: 300;
+      color: #fff;
+      margin-bottom: 30rem; }
+      .card__cta--price1 {
+        font-size: 2.5rem; }
+      .card__cta--price2 {
+        font-size: 2.2rem; }
 
 .header {
   position: relative;
