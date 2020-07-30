@@ -13,6 +13,7 @@ Google fonts<br/>
 Linea font icons<br />
 jonas images (project file.)<br/>
 unsplash.com(images)<br/>
+coverr.co (videos)<br />
 
 #### BEM METHADOLOGY.
 #### Author
