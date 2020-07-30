@@ -162,6 +162,9 @@ body {
   animation: moveInBottom .5s ease-out .75s;
   animation-fill-mode: backwards; }
 
+.btn-center {
+  text-align: center; }
+
 .composition {
   position: relative; }
   .composition__photo {
@@ -401,5 +404,6 @@ body {
 
 .section__story {
   position: relative;
-  padding: 15rem 0;
-  text-align: center; }
+  padding: 15rem 0; }
+  .section__story:a {
+    text-align: center; }
