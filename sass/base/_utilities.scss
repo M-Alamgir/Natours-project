@@ -1,6 +1,6 @@
 .u-text-center {text-align: center;}
-.u-margin-bottom-8 {margin-bottom: 8rem;}
-.u-margin-bottom-5 {margin-bottom: 5rem;}
+.u-margin-bottom-8 {margin-bottom: 8rem !important;}
+.u-margin-bottom-5 {margin-bottom: 5rem !important;}
 .u-margin-not-bottom{
     &:not(:last-child){
         margin-bottom: 1.5rem;
