@@ -20,3 +20,6 @@ coverr.co (videos)<br />
 Jonas Schmedtman
 #### Student
 M. Alamgir
+
+#### Copyrights
+Jonas Schmedtman
