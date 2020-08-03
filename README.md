@@ -14,6 +14,8 @@ Linea font icons<br />
 jonas images (project file.)<br/>
 unsplash.com(images)<br/>
 coverr.co (videos)<br />
+cubic-bezier.com<br />
+easings.net<br />
 
 #### BEM METHADOLOGY.
 #### Author
