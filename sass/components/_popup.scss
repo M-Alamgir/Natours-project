@@ -45,10 +45,17 @@
         font-size: 1.4rem;
         margin-bottom: 3rem;
 
+        -moz-columns: 2;
+        -moz-column-gap: 4rem;
+        -moz-column-rule: 1px solid $color-light-grey2;
+
         columns: 2;
         column-gap: 4rem;
         column-rule: 1px solid $color-light-grey2;
 
+        -moz-hyphens: auto;
+        -ms-hyphens: auto;
+        -webkit-hyphens: auto;
         hyphens: auto;
     }
 
