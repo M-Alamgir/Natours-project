@@ -113,6 +113,9 @@ body {
 .u-margin-bottom-5 {
   margin-bottom: 5rem !important; }
 
+.u-margin-bottom-2 {
+  margin-bottom: 2rem !important; }
+
 .u-margin-not-bottom:not(:last-child) {
   margin-bottom: 1.5rem; }
 
@@ -411,6 +414,45 @@ body {
 
 .form__radio-input:checked ~ .form__radio-label .form__radio-button::after {
   opacity: 1; }
+
+.popup {
+  height: 100vh;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.8);
+  z-index: 9999; }
+  .popup__content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 75%;
+    background-color: #fff;
+    display: table;
+    border-radius: 3px;
+    overflow: hidden;
+    box-shadow: 0 1rem 4rem rgba(0, 0, 0, 0.4);
+    border: none; }
+  .popup__left {
+    width: 33.33333%;
+    display: table-cell; }
+  .popup__right {
+    width: 66.666667%;
+    display: table-cell;
+    vertical-align: middle;
+    padding: 3rem; }
+  .popup__img {
+    width: 100%;
+    display: block; }
+  .popup__text {
+    font-size: 1.4rem;
+    margin-bottom: 3rem;
+    columns: 2;
+    column-gap: 4rem;
+    column-rule: 1px solid #e2e2e2;
+    hyphens: auto; }
 
 .header {
   position: relative;
