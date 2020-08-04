@@ -16,6 +16,7 @@ unsplash.com(images)<br/>
 coverr.co (videos)<br />
 cubic-bezier.com<br />
 easings.net<br />
+loremipsumgenerator.com<br />
 
 #### BEM METHADOLOGY.
 #### Author
