@@ -1,7 +1,7 @@
 # Natours-project
 This project is part of Jonas Schmedtman advanced CSS course.<br/>
 ## Live Demo
-Checkout live demo here:
+Checkout live demo here: https://ourandco.github.io/Natours-project/
 ### Technologies
 HTML 5<br/>
 CSS (intermediate to Advanced)<br/>
