@@ -1,5 +1,7 @@
 # Natours-project
 This project is part of Jonas Schmedtman advanced CSS course.<br/>
+The course includes Responsive design, animations, and advanced css concepts. <br/>
+
 ## Live Demo
 Checkout live demo here: https://ourandco.github.io/Natours-project/
 ### Technologies
