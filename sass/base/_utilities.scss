@@ -1,5 +1,11 @@
 .u-text-center {text-align: center;}
-.u-margin-bottom-8 {margin-bottom: 8rem !important;}
+.u-margin-bottom-8 {
+    margin-bottom: 8rem !important;
+
+    @include respond(tab-port){
+        margin-bottom: 4rem !important;
+    }
+}
 .u-margin-bottom-5 {margin-bottom: 5rem !important;}
 .u-margin-bottom-2 {margin-bottom: 2rem !important;}
 .u-margin-not-bottom{
