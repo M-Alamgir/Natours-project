@@ -16,6 +16,11 @@
         box-shadow: 0 1rem 3rem rgba($color-black, .2);
         cursor: pointer;
         text-align: center;
+
+        @include respond(tab-port){
+            top: 3rem;
+            right: 3rem;
+        }
     }
 
     &__background {
@@ -28,6 +33,11 @@
         right: 6.5rem;
         z-index: 1000;
         transition: transform .8s cubic-bezier(0.83, 0, 0.17, 1);
+
+        @include respond(tab-port){
+            top: 3.5rem;
+            right: 3.5rem;
+        }
     }
 
     &__nav {
@@ -100,16 +110,6 @@
             height: 2px;
             background-color: $color-dark-grey3;
             display: inline-block;
-
-            @include respond(tab-port){
-                top: 3rem;
-                width: 2.5rem;
-            }
-
-            @include respond(phone){
-                top: 2.5rem;
-                width: 2rem;
-            }
             
         }
 
@@ -122,18 +122,18 @@
         }
 
         &::before {
-            top: -.8rem;
+            top: -8px;
         }
 
         &::after {
-            top: .8rem;
+            top: 8px;
         }
     }
     &__button:hover &__icon::before {
-        top: -1rem;
+        top: -10px;
     }
     &__button:hover &__icon::after {
-        top: 1rem;
+        top: 10px;
     }
 
     &__checkbox:checked + &__button &__icon {
