@@ -19,6 +19,7 @@ coverr.co (videos)<br />
 cubic-bezier.com<br />
 easings.net<br />
 loremipsumgenerator.com<br />
+sizzy.co (Responsive design test) <br />
 
 #### BEM METHADOLOGY.
 #### Author
