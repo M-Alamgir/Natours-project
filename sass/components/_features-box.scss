@@ -5,7 +5,7 @@
     padding: 2.5rem;
     box-shadow: 0 1rem 1.5rem rgba($color-black, .2);
     transition: transform .2s;
-
+    
     @include respond(tab-port){
         padding: 1.5rem;
     }

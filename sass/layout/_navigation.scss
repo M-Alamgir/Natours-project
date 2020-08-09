@@ -60,7 +60,11 @@
         transform: translate(-50%, -50%);
         list-style: none;
         text-align: center;
-      
+        
+
+        @include respond(phone){
+            width: 100%;
+        }
     }
 
     &__item {
