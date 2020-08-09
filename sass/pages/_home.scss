@@ -6,6 +6,10 @@
     @include respond(tab-port){
         padding: 20rem 0;
     }
+
+    @include respond(phone){
+        padding: 20rem 3rem;
+    }
 }
 
 .section-features {
@@ -23,6 +27,10 @@
         padding: 10rem 0;
     }
 
+    @include respond(phone){
+        padding: 10rem 3rem;
+    }
+
     & > * {
      transform: skewY(7deg);   
     }
@@ -36,6 +44,10 @@
     
     @include respond(tab-port){
         padding: 20rem 0 10rem 0;
+    }
+
+    @include respond(phone){
+        padding: 20rem 3rem 10rem 3rem;
     }
 }
 
