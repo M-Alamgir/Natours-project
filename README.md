@@ -4,6 +4,9 @@ This course includes Responsive design, animations, and advanced css concepts. <
 
 ## Live Demo
 Checkout live demo here: https://ourandco.github.io/Natours-project/
+
+![](img/shot.PNG)
+
 ### Technologies
 HTML 5<br/>
 CSS (intermediate to Advanced)<br/>
