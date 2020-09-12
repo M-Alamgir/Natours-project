@@ -26,9 +26,9 @@ sizzy.co (Responsive design test) <br />
 
 #### BEM METHADOLOGY.
 #### Author
-Jonas Schmedtman
+:bust_in_silhouette: Jonas Schmedtman
 #### Student
-M. Alamgir
+:bust_in_silhouette: M. Alamgir
 
 #### Copyrights
-Jonas Schmedtman
+:bust_in_silhouette: Jonas Schmedtman
