@@ -30,5 +30,10 @@ sizzy.co (Responsive design test) <br />
 #### Student
 :bust_in_silhouette: M. Alamgir
 
+
+## Show your support
+
+Give a ⭐️ if you like this project
+
 #### Copyrights
 :bust_in_silhouette: Jonas Schmedtman
