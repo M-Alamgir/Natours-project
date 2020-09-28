@@ -24,6 +24,12 @@ easings.net<br />
 loremipsumgenerator.com<br />
 sizzy.co (Responsive design test) <br />
 
+### Setup
+
+1. Clone this repo to your computer using `git clone`
+2. Run `npm install` to install all the dependencies.
+3. Open index.html from the dist folder on the local Live server to run the app.
+
 #### BEM METHADOLOGY.
 #### Author
 :bust_in_silhouette: Jonas Schmedtman
